@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Elyor 👋
 
-<!--
-**elyorakhmat/elyorakhmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building toward AI research — currently focused on machine learning, the math behind it, and applied LLM systems.
 
-Here are some ideas to get you started:
+### 🔭 Projects
+- [project-one](https://github.com/USERNAME/project-one) — *coming soon*
+- [project-two](https://github.com/USERNAME/project-two) — *coming soon*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently learning
+Linear algebra · Probability · Deep learning fundamentals
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/elyorakhmat/) · [Email](elyorakhmat@gmail.com)
