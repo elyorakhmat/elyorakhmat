@@ -10,4 +10,4 @@ Software engineer building toward AI engineering — currently focused on machin
 Linear algebra · Probability · Deep learning fundamentals
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/elyorakhmat/) · [Email](mailto: elyorakhmat@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elyorakhmat/) · [Email](mailto:elyorakhmat@gmail.com)
